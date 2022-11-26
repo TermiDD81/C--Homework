@@ -1,0 +1,15 @@
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\bin\Debug\net7.0\Dop_task.exe
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\bin\Debug\net7.0\Dop_task.deps.json
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\bin\Debug\net7.0\Dop_task.runtimeconfig.json
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\bin\Debug\net7.0\Dop_task.dll
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\bin\Debug\net7.0\Dop_task.pdb
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\obj\Debug\net7.0\Dop_task.csproj.AssemblyReference.cache
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\obj\Debug\net7.0\Dop_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\obj\Debug\net7.0\Dop_task.AssemblyInfoInputs.cache
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\obj\Debug\net7.0\Dop_task.AssemblyInfo.cs
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\obj\Debug\net7.0\Dop_task.csproj.CoreCompileInputs.cache
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\obj\Debug\net7.0\Dop_task.dll
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\obj\Debug\net7.0\refint\Dop_task.dll
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\obj\Debug\net7.0\Dop_task.pdb
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\obj\Debug\net7.0\Dop_task.genruntimeconfig.cache
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_1\Dop_task\obj\Debug\net7.0\ref\Dop_task.dll
