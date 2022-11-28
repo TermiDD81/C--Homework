@@ -1,0 +1,15 @@
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\bin\Debug\net7.0\Task_19.exe
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\bin\Debug\net7.0\Task_19.deps.json
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\bin\Debug\net7.0\Task_19.runtimeconfig.json
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\bin\Debug\net7.0\Task_19.dll
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\bin\Debug\net7.0\Task_19.pdb
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\obj\Debug\net7.0\Task_19.csproj.AssemblyReference.cache
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\obj\Debug\net7.0\Task_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\obj\Debug\net7.0\Task_19.AssemblyInfoInputs.cache
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\obj\Debug\net7.0\Task_19.AssemblyInfo.cs
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\obj\Debug\net7.0\Task_19.csproj.CoreCompileInputs.cache
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\obj\Debug\net7.0\Task_19.dll
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\obj\Debug\net7.0\refint\Task_19.dll
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\obj\Debug\net7.0\Task_19.pdb
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\obj\Debug\net7.0\Task_19.genruntimeconfig.cache
+C:\Users\Termi\Documents\GeekBrains\3._C#\C--Homework\Seminar_3\Task_19\obj\Debug\net7.0\ref\Task_19.dll
