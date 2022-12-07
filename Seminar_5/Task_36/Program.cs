@@ -1,18 +1,17 @@
 ﻿void InputArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
-        array[i] = new Random().Next(100, 1000);
+        array[i] = new Random().Next(0, 100);
 }
 
-int CountEven(int[] array)
+int SumUneven(int[] array)
 {
-    int count = 0;
-    for (int i = 0; i < array.Length; i++)
+    int sum = 0;
+    for (int i = 1; i < array.Length; i += 2)
         {
-            if (array[i] % 2 == 0)
-            count++;
+            sum = sum + array[i];
         }
-    return count;
+    return sum;
 }
 
 Console.Clear();
@@ -21,4 +20,4 @@ int n = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[n];
 InputArray(array);
 Console.WriteLine($"Массив: [{string.Join(", ", array)}]");
-Console.WriteLine(CountEven(array));
+Console.WriteLine(SumUneven(array));
