@@ -4,7 +4,7 @@
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            matrix[i, j] = i + j; // [-10, 10]
+            matrix[i, j] = new Random().Next(-10, 11); // [-10, 10]
             Console.Write($"{matrix[i, j]} \t");
         }
         Console.WriteLine();
